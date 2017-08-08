@@ -1,0 +1,25 @@
+
+body {
+
+background-color: white
+
+}
+
+h1{
+ color: white;
+ background-color: blue;
+ text-align: center;
+ line-height: 80px
+ 
+}
+img{
+    float: left
+}
+p{
+    float: left
+}
+
+
+
+
+
